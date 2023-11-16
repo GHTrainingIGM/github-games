@@ -10,3 +10,5 @@ This fun open source game was cloned from: https://github.com/jakesgordon/javasc
 
 - Test Changes from Feature 02 Branch
 - Test changes from feature -01 branch
+- Test stale pull request approvals
+- Changes post PR Approval
